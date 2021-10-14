@@ -170,9 +170,11 @@
             this.ClientSize = new System.Drawing.Size(1227, 699);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.KeyPreview = true;
             this.Name = "NewQueryForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "NewQueryForm";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.NewQueryForm_KeyDown);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.tabControl1.ResumeLayout(false);

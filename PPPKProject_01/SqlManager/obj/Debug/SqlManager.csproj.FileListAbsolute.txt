@@ -11,3 +11,16 @@ D:\skola\PPPK\PPPKProject_01\SqlManager\obj\Debug\SqlManager.exe
 D:\skola\PPPK\PPPKProject_01\SqlManager\obj\Debug\SqlManager.pdb
 D:\skola\PPPK\PPPKProject_01\SqlManager\obj\Debug\SqlManager.SelectResultsForm.resources
 D:\skola\PPPK\PPPKProject_01\SqlManager\obj\Debug\SqlManager.NewQueryForm.resources
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\bin\Debug\SqlManager.exe.config
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\bin\Debug\SqlManager.exe
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\bin\Debug\SqlManager.pdb
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.csprojAssemblyReference.cache
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.LogInForm.resources
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.MainForm.resources
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.NewQueryForm.resources
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.Properties.Resources.resources
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.SelectResultsForm.resources
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.csproj.GenerateResource.cache
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.exe
+C:\Users\Nina\Documents\GitHub\PPPK-SQLManager-project\PPPKProject_01\SqlManager\obj\Debug\SqlManager.pdb

@@ -63,5 +63,13 @@ namespace SqlManager
                 tabControl1.SelectedTab = TabMsg;
             }
         }
+
+        private void NewQueryForm_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Alt == true && e.KeyCode == Keys.X)
+            {
+                TsExecute.PerformClick();
+            }
+        }
     }
 }
